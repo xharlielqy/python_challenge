@@ -26,4 +26,4 @@ print(new_text)
 text_3 = 'abcedfghijklmnopqrstuvwxyz'
 text_4 = 'cdefghijklmnopqrstuvwxyzab'
 table = ''.maketrans(text_3, text_4)
-print(text.translate(table))
+print(text_2.translate(table))
